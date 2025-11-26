@@ -168,4 +168,6 @@ echo "Verification completed successfully!"
 echo "================================================================"
 echo
 
+"${SCRIPT_DIR}/06-create-java-app-pipelinerun.sh" "${NUM_USERS}"
+
 exit 0
